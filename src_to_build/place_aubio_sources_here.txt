@@ -1,0 +1,12 @@
+Just download the sources of the aubio version you want to cross-compile and
+place it in this folder.
+After that the waf and wscript file of the aubio root folder should be in this
+folder and you can run Vagrant to build aubio.
+
+Possible downloads:
+-> latest version: https://github.com/aubio/aubio
+-> older releases: https://aubio.org/pub/
+
+ATTENTION:
+You need aubio version 0.4.4 or higher, because this was the first released
+version with the build_mingw script.

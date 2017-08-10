@@ -38,8 +38,8 @@ Finally, it copies the created zip packages and the sha256 checksum files back t
 5. Go and get another cup of coffee :)
    -> or 2 or 3 ... it takes a while to install and update the virtual machine at first start
 
-If Vagrant has completed the build process, you will find the ZIP files for the cross-compiled
-win32 and win64 aubio lib in the `out` folder.
+If Vagrant has completed the build process, you will find the ZIP files of the cross-compiled
+win32 and win64 aubio libs in the `out` folder.
 
    
 ## Troubleshooting
